@@ -6,7 +6,7 @@ site:
     # google_analytics: XX-123456
 content:
   sources:
-  - url: https://github.com/abrennan89/antora-docs-test.git
+  - url: https://github.com/boson-project/antora-docs-test.git
     branches: [master]
     # tags: v3.*
     start_path: test-project
