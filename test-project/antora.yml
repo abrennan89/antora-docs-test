@@ -1,0 +1,8 @@
+name: example
+title: Antora example
+# start_page: module:dir/filename.adoc
+start_page: modules::ROOT:index.adoc
+# A component must have a ROOT module that contains an index.adoc page. Otherwise, a start page must be specified using the start_page key:
+# start_page: security:protocols/ssh.adoc
+nav:
+- modules/ROOT/nav.adoc
